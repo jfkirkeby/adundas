@@ -48,7 +48,8 @@ Please don't hesitate to contact me if you want to collaborate on a research pro
 
 [WaterWavesWorkshop](https://sites.google.com/view/waterwavesworkshop/home)
 Organized at Simula in 2025 by Eirik Valseth and AK. Next meeting scheduled for 2027. 
-[Opinion piece on AI in mathematics in Morgenbladet]
+
+[Opinion piece on AI in mathematics in Morgenbladet](stuf/mb.jpg) 
 
 ## Contact
 1: adrian@simula.no
