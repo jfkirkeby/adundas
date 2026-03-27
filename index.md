@@ -15,6 +15,7 @@ Please don't hesitate to contact me if you want to collaborate on a research pro
 [Simula](https://www.simula.no/people/adrian)
 
 
+
 ### Publications
 * **Wave-Current-Bathymetry Interaction Revisited: Modeling, Analysis and Asymptotics** (with T. Halsne), 2026,
   [[Pre-print]](https://doi.org/10.48550/arXiv.2603.25435) [[PDF]](pdfs/WaCuBa.pdf)
@@ -43,7 +44,12 @@ Please don't hesitate to contact me if you want to collaborate on a research pro
 * **Stable source reconstruction from a finite number of measurements in the multi-frequency inverse source problem** (with M. Karamehmedović and K. Knudsen), *Inverse Problems*, 34(6), 065004, 2018.  
   [[Journal]](https://doi.org/10.1088/1361-6420/aaba83) [[PDF]](pdfs/stable-source-reconstruction.pdf)
 
- 
+## Div
+
+[WaterWavesWorkshop](https://sites.google.com/view/waterwavesworkshop/home)
+Organized at Simula in 2025 by Eirik Valseth and AK. Next meeting scheduled for 2027. 
+[Opinion piece on AI in mathematics in Morgenbladet]
+
 ## Contact
 1: adrian@simula.no
 2: adrian.kirkeby@gmail.com
