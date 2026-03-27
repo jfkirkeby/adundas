@@ -10,6 +10,10 @@ Also, I'm generally interested in inverse problems, especially related to wave p
 
 Please don't hesitate to contact me if you want to collaborate on a research project!
 
+[ORCID](https://orcid.org/
+0000-0003-2741-7423 )
+
+[Simula](https://www.simula.no/people/adrian)
 
 
 ### Publications
