@@ -23,6 +23,9 @@ I'm an applied mathematician working in the rather void intersection of water wa
 * **Exact and approximate solutions to the Helmholtz, Schrödinger and wave equation in R³ with radial data**, *Wave Motion*, 108, 102841, 2022.  
   [[Journal]](https://doi.org/10.1016/j.wavemoti.2021.102841) [[PDF]](pdfs/exact-and-approximate-solutions.pdf)
 
-* **Stability of the reconstruction of a source in a wave equation from boundary measurements**, *Inverse Problems*, 36(5), 055008, 2020.  
+* **Stability of the inverse source problem for the Helmholtz equation in R³**, *Inverse Problems*, 36(5), 055007, 2020.  
   [[Journal]](https://doi.org/10.1088/1361-6420/ab762d) [[PDF]](pdfs/stability-helmholtz-R3.pdf)
+
+* **Photo-acoustic tomography in the rotating setting**, *Inverse Problems*, 35(10), 105001, 2019.  
+  [[Journal]](https://doi.org/10.1088/1361-6420/ab315c) [[PDF]](pdfs/photo-acoustic-tomography.pdf)
  
