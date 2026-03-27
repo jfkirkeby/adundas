@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: List of publications
+---
 ### All Publications
 * **Wave-Current-Bathymetry Interaction Revisited: Modeling, Analysis and Asymptotics** (with T. Halsne), 2026,
   [[Pre-print]](https://doi.org/10.48550/arXiv.2603.25435) [[PDF]](pdfs/WaCuBa.pdf)
