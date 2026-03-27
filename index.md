@@ -4,6 +4,8 @@ layout: default
 ## Welcome to my Research Page
 I'm an applied mathematician working in the rather void intersection of water waves and inverse problems. I currently work at Simula Research Laboratory in Oslo, Norway. 
 
+
+
 ### Publications
 * **Wave-Current-Bathymetry Interaction Revisited: Modeling, Analysis and Asymptotics** (with T. Halsne), 2026,
   [[Pre-print]](https://doi.org/10.48550/arXiv.2603.25435) [[PDF]](pdfs/WaCuBa.pdf)
@@ -31,4 +33,8 @@ I'm an applied mathematician working in the rather void intersection of water wa
 
 * **Stable source reconstruction from a finite number of measurements in the multi-frequency inverse source problem** (with M. Karamehmedović and K. Knudsen), *Inverse Problems*, 34(6), 065004, 2018.  
   [[Journal]](https://doi.org/10.1088/1361-6420/aaba83) [[PDF]](pdfs/stable-source-reconstruction.pdf)
+
  
+## Contact
+1: adrian@simula.no
+2: adrian.kirkeby@gmail.com
