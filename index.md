@@ -5,7 +5,8 @@ layout: default
 I'm an applied mathematician working in the rather void intersection of water waves and inverse problems. I currently work at Simula Research Laboratory in Oslo, Norway. 
 
 ### Publications
-* **Wave-Current-Bathymetry Interaction Revisited: Modeling, Analysis and Asymptotics**, 2026, (preprint),
+* **Wave-Current-Bathymetry Interaction Revisited: Modeling, Analysis and Asymptotics**, 2026, [[Pre-print]]( 	
+https://doi.org/10.48550/arXiv.2603.25435) [[PDF]](pdfs/WaCuBa.pdf)
 * **Imaging of Seabed Topography from the Scattering of Water Waves**, 2025,
 * **Unique continuation for water waves and dispersive multiplier equations**, 2025 
 **Feynman's Inverse Problem**, *SIAM Review*, 66(4), 694–718, 2024.  
