@@ -8,6 +8,7 @@ I'm an applied mathematician working in the rather void intersection of water wa
 * **Wave-Current-Bathymetry Interaction Revisited: Modeling, Analysis and Asymptotics**, 2026, (preprint),
 * **Imaging of Seabed Topography from the Scattering of Water Waves**, 2025,
 * **Unique continuation for water waves and dispersive multiplier equations**, 2025 
-* **Feynman's Inverse Problem**, 2024. [Link](https://google.com)
+**Feynman's Inverse Problem**, *SIAM Review*, 66(4), 694–718, 2024.  
+  [[Journal]](https://doi.org/10.1137/23M1611488) [[PDF]](pdfs/feynman-inverse-problem.pdf)
 * **Feasibility of acousto-electric tomography**, 2024.
  
