@@ -17,8 +17,12 @@ I'm an applied mathematician working in the rather void intersection of water wa
 * **Feynman's Inverse Problem**, *SIAM Review*, 66(4), 694–718, 2024.  
   [[Journal]](https://doi.org/10.1137/23M1611488) [[PDF]](pdfs/feynmans-inverse-problem.pdf)
   
-* **Feasibility of acousto-electric tomography**, 2024, [[Journal]](https://doi.org/10.1088/1361-6420/ad4669)[[PDF]](pdfs/Feasibility-of-acousto-electric-tomography.pdf)
+* **Feasibility of acousto-electric tomography**, *Inverse Problems*, 40(7), 075007, 2024.
+  [[Journal]](https://doi.org/10.1088/1361-6420/ad4669)[[PDF]](pdfs/Feasibility-of-acousto-electric-tomography.pdf)
 
 * **Exact and approximate solutions to the Helmholtz, Schrödinger and wave equation in R³ with radial data**, *Wave Motion*, 108, 102841, 2022.  
   [[Journal]](https://doi.org/10.1016/j.wavemoti.2021.102841) [[PDF]](pdfs/exact-and-approximate-solutions.pdf)
+
+* **Stability of the reconstruction of a source in a wave equation from boundary measurements**, *Inverse Problems*, 36(5), 055008, 2020.  
+  [[Journal]](https://doi.org/10.1088/1361-6420/ab762d) [[PDF]](pdfs/stability-helmholtz-R3.pdf)
  
