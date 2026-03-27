@@ -1,8 +1,14 @@
 ---
 layout: default
 ---
-## Welcome to my Research Page
+## Welcome!
 I'm an applied mathematician working in the rather void intersection of water waves and inverse problems. I currently work at Simula Research Laboratory in Oslo, Norway. 
+
+Currently, I'm very interested in understanding how ocean waves interact with their surroundings, e.g., currents, topography, wind, or internal waves, and how such interactions can be used to extract information about the surroundings from imagery of the waves. 
+
+Also, I'm generally interested in inverse problems, especially related to wave propagation, and I have professional experience with both signal processing and deep learning.
+
+Please don't hesitate to contact me if you want to collaborate on a research project!
 
 
 
