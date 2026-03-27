@@ -4,5 +4,10 @@ plugins:
 title: Adrian Kirkeby
 description: Research Website
 logo: div/profile.JPG
+nav:
+  - text: Home
+    url: /index.html
+  - text: Publications
+    url: /publications.html
 show_downloads: false
 
