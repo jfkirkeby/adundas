@@ -3,4 +3,7 @@ plugins:
   - jekyll-remote-theme
 title: Adrian Kirkeby
 description: Research Website
+logo: /profile.JPG
+description: Postdoc at Simula Research Laboratory
+show_downloads: false
 
