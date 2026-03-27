@@ -3,10 +3,9 @@ plugins:
   - jekyll-remote-theme
 title: Adrian Kirkeby
 logo: div/profile.JPG
-nav:
-  - text: Home
-    url: /index.html
-  - text: Publications
-    url: /publications.html
+description: >
+  Researcher in Inverse Problems <br><br>
+  [🏠 Home](/) <br>
+  [📚 Publications](/publications) <br>
 show_downloads: false
 
