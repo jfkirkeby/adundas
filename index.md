@@ -47,3 +47,5 @@ Lectures on inverse problems for water waves at [SINTEF Winter School in Geilo](
 ## Contact
 1: adrian@simula.no
 2: adrian.kirkeby@gmail.com
+
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fjfkirkeby.github.io%2Fadundas%2F&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
