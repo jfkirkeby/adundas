@@ -4,7 +4,7 @@ layout: default
 ## Welcome!
 I'm an applied mathematician working in the rather void intersection of water waves and inverse problems. I currently work as a postdoc at Simula Research Laboratory in Oslo, Norway. 
 
-Currently, I'm very interested in understanding how ocean waves interact with their surroundings, e.g., currents, topography, wind, or internal waves, and how such interactions can be used to extract information about the surroundings from imagery of the waves. 
+Currently, I'm very interested in understanding how ocean waves interact with their surroundings, e.g., currents, topography, wind, or internal waves, and how such interactions can be used to extract information about the surroundings from various measurements of the waves. 
 
 Also, I'm generally interested in inverse problems, especially related to wave propagation, and I have professional experience with both signal processing and deep learning.
 
@@ -40,7 +40,7 @@ Upcoming minitutorial at [SIAM Conference on Nonlinear Waves and Coherent Struct
 [Opinion piece on AI in mathematics in Morgenbladet](div/mb.jpg) written together with Thomas Surowiec. 
 
 [WaterWavesWorkshop](https://sites.google.com/view/waterwavesworkshop/home)
-Organized at Simula in 2025 by Eirik Valseth and AK. Next meeting scheduled for 2027. 
+Organized at Simula, Oslo, in 2025 together with Eirik Valseth. Next meeting scheduled for 2027. 
 
 Lectures on inverse problems for water waves at [SINTEF Winter School in Geilo](https://www.sintef.no/projectweb/geilowinterschool/2025-inverse-problems/) (2025).
 
