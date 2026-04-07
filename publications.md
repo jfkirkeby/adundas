@@ -32,6 +32,8 @@ title: List of publications
 
 ### Thesis
 
-* **On Hybrid Inverse Problems for Partial Differential Equations**, PhD-thesis [[PDF]](pdfs/Phd-Thesis.pdf)
+* **On Hybrid Inverse Problems for Partial Differential Equations**, PhD-thesis, [[PDF]](pdfs/Phd-Thesis.pdf)
+
+* **Nonlinear Acoustic Waves in Heterogeneous Materials**, MSc-thesis, [[Link]](https://nva.sikt.no/registration/0198ec03c792-9188a87e-94f8-4df7-88f6-40a995a9498e)  
   
 
