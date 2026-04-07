@@ -32,6 +32,6 @@ title: List of publications
 
 ### Thesis
 
-* **On Hybrid Inverse Problems for Partial Differential Equations**, PhD-thesis [[PDF]](pdfs/Phd-thesis.pdf)
+* **On Hybrid Inverse Problems for Partial Differential Equations**, PhD-thesis [[PDF]](pdfs/Phd-Thesis.pdf)
   
 
