@@ -15,7 +15,7 @@ title: List of publications
 * **Feynman's Inverse Problem**, *SIAM Review*, 66(4), 694–718, 2024.  
   [[Journal]](https://doi.org/10.1137/23M1611488) [[PDF]](pdfs/feynmans-inverse-problem.pdf)
   
-* **Feasibility of acousto-electric tomography** (with B. Jensen and Kim Knudsen), *Inverse Problems*, 40(7), 075007, 2024.
+* **Feasibility of acousto-electric tomography** (with B. Jensen and K. Knudsen), *Inverse Problems*, 40(7), 075007, 2024.
   [[Journal]](https://doi.org/10.1088/1361-6420/ad4669)[[PDF]](pdfs/Feasibility-of-acousto-electric-tomography.pdf)
 
 * **Exact and approximate solutions to the Helmholtz, Schrödinger and wave equation in R³ with radial data**, *Wave Motion*, 108, 102841, 2022.  
