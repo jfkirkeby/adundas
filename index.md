@@ -8,6 +8,8 @@ Currently, I'm very interested in understanding how ocean waves interact with th
 
 Also, I'm generally interested in inverse problems, especially related to wave propagation, and I have professional experience with both signal processing and deep learning.
 
+Gist made an AI-based popular science version of my paper **Imaging of Seabed Topography from the Scattering of Water Waves** that does a decent job of explaining the idea of inverse problems for water waves: [[Link]](https://gist.science/paper/2406.05878)
+
 Please don't hesitate to contact me if you want to collaborate on a research project related to any of these topics!
 
 [ORCID](https://orcid.org/0000-0003-2741-7423 )
@@ -34,8 +36,6 @@ Please don't hesitate to contact me if you want to collaborate on a research pro
 
 
 ## Div Recent
-
-Someone made an AI-based popular science version of my paper *Imaging of Seabed Topography from the Scattering of Water Waves* [[Link]](https://gist.science/paper/2406.05878)
 
 Upcoming minitutorial at [SIAM Conference on Nonlinear Waves and Coherent Structures](https://www.siam.org/conferences-events/siam-conferences/nwcs26/program/minitutorials/) 26.5-29.5 2026.
 
