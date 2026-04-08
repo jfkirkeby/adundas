@@ -35,6 +35,8 @@ Please don't hesitate to contact me if you want to collaborate on a research pro
 
 ## Div Recent
 
+Someone made an AI-based popular science version of my paper *Imaging of Seabed Topography from the Scattering of Water Waves* [[Link]](https://gist.science/paper/2406.05878)
+
 Upcoming minitutorial at [SIAM Conference on Nonlinear Waves and Coherent Structures](https://www.siam.org/conferences-events/siam-conferences/nwcs26/program/minitutorials/) 26.5-29.5 2026.
 
 [Opinion piece on AI in mathematics in Morgenbladet](div/mb.jpg) written together with Thomas Surowiec. 
