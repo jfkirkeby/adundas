@@ -20,7 +20,7 @@ Please don't hesitate to contact me if you want to collaborate on a research pro
 
 ### Selected Publications
 * **Wave-Current-Bathymetry Interaction Revisited: Modeling, Analysis and Asymptotics** (with T. Halsne), 2026,
-  [[Pre-print]](https://doi.org/10.48550/arXiv.2603.25435) [[PDF]](pdfs/WaCuBa.pdf)
+  [[Pre-print]](https://doi.org/10.48550/arXiv.2603.25435) [[PDF]](pdfs/WaCuBav2.pdf)
 
 * **Imaging of Seabed Topography from the Scattering of Water Waves**, *Water Waves*, 7, 1–33, 2025.  
   [[Journal]](https://doi.org/10.1007/s42286-024-00107-0) [[PDF]](pdfs/imaging-seabed.pdf)
