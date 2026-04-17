@@ -31,7 +31,7 @@ Please don't hesitate to contact me if you want to collaborate on a research pro
 * **Feynman's Inverse Problem**, *SIAM Review*, 66(4), 694–718, 2024.  
   [[Journal]](https://doi.org/10.1137/23M1611488) [[PDF]](pdfs/feynmans-inverse-problem.pdf)
 
-  (Someone put this paper under [Further reading](https://en.wikipedia.org/wiki/Inverse_problem#Further_reading) on the Wikipedia page about [Inverse problems](https://en.wikipedia.org/wiki/Inverse_problem)!
+  (Someone put this paper under [Further reading](https://en.wikipedia.org/wiki/Inverse_problem#Further_reading) on the Wikipedia page about [Inverse problems](https://en.wikipedia.org/wiki/Inverse_problem)!)
   
 * **Feasibility of acousto-electric tomography** (with B. Jensen and Kim Knudsen), *Inverse Problems*, 40(7), 075007, 2024.
   [[Journal]](https://doi.org/10.1088/1361-6420/ad4669)[[PDF]](pdfs/Feasibility-of-acousto-electric-tomography.pdf)
