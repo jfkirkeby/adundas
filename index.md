@@ -35,7 +35,9 @@ Please don't hesitate to contact me if you want to collaborate on a research pro
   [[Journal]](https://doi.org/10.1088/1361-6420/ad4669)[[PDF]](pdfs/Feasibility-of-acousto-electric-tomography.pdf)
 
 
-## Div Recent
+## Recent
+
+Thomas Surowiec and I were interviewed in [Forskerforum](https://www.forskerforum.no/ki-agenter-som-geniale-forskningsassistenter-forskere-er-ikke-sa-sikre/) about AI in mathematics.
 
 Upcoming minitutorial at [SIAM Conference on Nonlinear Waves and Coherent Structures](https://www.siam.org/conferences-events/siam-conferences/nwcs26/program/minitutorials/) 26.5-29.5 2026.
 
