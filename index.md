@@ -2,6 +2,8 @@
 layout: default
 ---
 ## Welcome!
+---
+
 I'm an applied mathematician working in the rather void intersection of water waves and inverse problems. I currently work as a postdoc at Simula Research Laboratory in Oslo, Norway. 
 
 Currently, I'm very interested in understanding how ocean waves interact with their surroundings, e.g., currents, topography, wind, or internal waves, and how such interactions can be used to extract information about the surroundings from various measurements of the waves. 
