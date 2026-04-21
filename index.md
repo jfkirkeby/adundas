@@ -18,12 +18,12 @@ Please don't hesitate to contact me if you want to collaborate on a research pro
 
 [Simula](https://www.simula.no/people/adrian)
 
-# Contact:
+### Contact:
 adrian@simula.no or adrian.kirkeby@gmail.com
 
 ---
 
-### Selected Publications
+## Selected Publications
 * **Wave-Current-Bathymetry Interaction Revisited: Modeling, Analysis and Asymptotics** (with T. Halsne), 2026,
   [[Pre-print]](https://doi.org/10.48550/arXiv.2603.25435) [[PDF]](pdfs/WaCuBav2.pdf)
 
