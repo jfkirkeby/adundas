@@ -3,7 +3,6 @@ plugins:
   - jekyll-remote-theme
 title: Adrian Kirkeby
 logo: div/profile.JPG
-description: "Ad Undas - Adrian Kirkeby's research page"
 
 show_downloads: false
 
