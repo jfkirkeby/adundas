@@ -36,6 +36,7 @@ Please don't hesitate to contact me if you want to collaborate on a research pro
 * **Feasibility of acousto-electric tomography** (with B. Jensen and Kim Knudsen), *Inverse Problems*, 40(7), 075007, 2024.
   [[Journal]](https://doi.org/10.1088/1361-6420/ad4669)[[PDF]](pdfs/Feasibility-of-acousto-electric-tomography.pdf)
 
+---
 
 ## Recent
 
@@ -49,6 +50,8 @@ Upcoming minitutorial at [SIAM Conference on Nonlinear Waves and Coherent Struct
 Organized at Simula, Oslo, in 2025 together with Eirik Valseth. Next meeting scheduled for 2027. 
 
 Lectures on inverse problems for water waves at [SINTEF Winter School in Geilo](https://www.sintef.no/projectweb/geilowinterschool/2025-inverse-problems/) (2025).
+
+---
 
 ## Contact
 1: adrian@simula.no
