@@ -18,6 +18,9 @@ Please don't hesitate to contact me if you want to collaborate on a research pro
 
 [Simula](https://www.simula.no/people/adrian)
 
+# Contact:
+adrian@simula.no or adrian.kirkeby@gmail.com
+
 ---
 
 ### Selected Publications
@@ -53,11 +56,6 @@ Organized at Simula, Oslo, in 2025 together with Eirik Valseth. Next meeting sch
 
 Lectures on inverse problems for water waves at [SINTEF Winter School in Geilo](https://www.sintef.no/projectweb/geilowinterschool/2025-inverse-problems/) (2025).
 
----
-
-## Contact
-1: adrian@simula.no
-2: adrian.kirkeby@gmail.com
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fjfkirkeby.github.io%2Fadundas%2F&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 
