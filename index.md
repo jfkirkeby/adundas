@@ -1,7 +1,3 @@
-<style>
-header h1 { display: none; }
-header p { display: none; }
-</style>
 ---
 layout: default
 ---
@@ -20,7 +16,7 @@ Please don't hesitate to contact me if you want to collaborate on a research pro
 
 [Simula](https://www.simula.no/people/adrian)
 
-
+---
 
 ### Selected Publications
 * **Wave-Current-Bathymetry Interaction Revisited: Modeling, Analysis and Asymptotics** (with T. Halsne), 2026,
