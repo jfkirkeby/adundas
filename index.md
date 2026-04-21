@@ -1,3 +1,7 @@
+<style>
+  header h1 { display: none; }
+  header p { display: none; }
+</style>
 ---
 layout: default
 ---
