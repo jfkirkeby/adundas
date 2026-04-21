@@ -18,8 +18,7 @@ Please don't hesitate to contact me if you want to collaborate on a research pro
 
 [Simula](https://www.simula.no/people/adrian)
 
-### Contact:
-adrian@simula.no or adrian.kirkeby@gmail.com
+**Contact:**  adrian@simula.no or adrian.kirkeby@gmail.com
 
 ---
 
