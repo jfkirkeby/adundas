@@ -44,7 +44,7 @@ Please don't hesitate to contact me if you want to collaborate on a research pro
 
 ## Recent
 
-A first version of the WaCuBa Python module accompanying the [[paper]](https://doi.org/10.48550/arXiv.2603.25435) is [[out]](https://github.com/jfkirkeby/WaCuBa). More notebooks and examples will appear soon. 
+A first version of the WaCuBa Python module accompanying the [paper](https://doi.org/10.48550/arXiv.2603.25435) is found [here](https://github.com/jfkirkeby/WaCuBa). More notebooks and examples will appear soon. 
 
 The AI debate continues in [Morgenbladet](div/mb.pdf).
 
