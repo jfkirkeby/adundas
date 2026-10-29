@@ -42,6 +42,8 @@ Please don't hesitate to contact me if you want to collaborate on a research pro
 
 ## Recent
 
+[WaCuBa](https://github.com/jfkirkeby/WaCuBa) is updated with a functionality allowing for wave sources. This can be used to simulate the interaction of currents and bathymetry with an incoming wave train with prescribed spectra. 
+
 A first version of the WaCuBa Python module accompanying this [paper](https://doi.org/10.48550/arXiv.2603.25435) can be found [here](https://github.com/jfkirkeby/WaCuBa). More notebooks and examples will appear soon. 
 
 The AI debate continues in [Morgenbladet](div/mb.pdf).
